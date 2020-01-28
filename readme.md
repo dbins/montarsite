@@ -8,6 +8,7 @@ Avaliação de PHP da agência MontarSite. Feito com PHP puro, Bootstrap, PDO e 
 
 - git clone https://github.com/dbins/montarsite
 - Crie um banco de dados chamado montarsite
+- Dentro do banco de dados, execute o script do arquivo banco.sql
 - Altere o arquivo lib/conexao.php e adicione as credenciais de acesso (endereço, login e senha)
 - Subir para um servidor PHP
 - O login e a senha são fixos (login: MONTAR, senha: SITE)
